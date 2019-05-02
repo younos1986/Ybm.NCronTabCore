@@ -1,0 +1,9 @@
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.deps.json
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.pdb
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.csprojAssemblyReference.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.csproj.CoreCompileInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.AssemblyInfoInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.AssemblyInfo.cs
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.pdb

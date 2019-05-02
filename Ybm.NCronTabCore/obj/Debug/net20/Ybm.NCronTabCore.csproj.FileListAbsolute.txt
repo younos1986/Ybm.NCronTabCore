@@ -1,0 +1,4 @@
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net20\Ybm.NCronTabCore.csprojAssemblyReference.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net20\Ybm.NCronTabCore.csproj.CoreCompileInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net20\Ybm.NCronTabCore.AssemblyInfoInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net20\Ybm.NCronTabCore.AssemblyInfo.cs

@@ -1,0 +1,17 @@
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.deps.json
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.runtimeconfig.json
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.runtimeconfig.dev.json
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.pdb
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\bin\Debug\netcoreapp2.1\Ybm.NCronTabCore.pdb
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.csprojAssemblyReference.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.csproj.CoreCompileInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.AssemblyInfoInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.AssemblyInfo.cs
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.csproj.CopyComplete
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore.Test\obj\Debug\netcoreapp2.1\Ybm.NCronTabCore.Test.pdb

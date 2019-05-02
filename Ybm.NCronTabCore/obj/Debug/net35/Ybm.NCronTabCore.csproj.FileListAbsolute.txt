@@ -1,0 +1,8 @@
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net35\Ybm.NCronTabCore.csprojAssemblyReference.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net35\Ybm.NCronTabCore.csproj.CoreCompileInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net35\Ybm.NCronTabCore.AssemblyInfoInputs.cache
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net35\Ybm.NCronTabCore.AssemblyInfo.cs
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\bin\Debug\net35\Ybm.NCronTabCore.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\bin\Debug\net35\Ybm.NCronTabCore.pdb
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net35\Ybm.NCronTabCore.dll
+C:\Users\y.baghaee\source\repos\Ybm.NCronTabCore\Ybm.NCronTabCore\obj\Debug\net35\Ybm.NCronTabCore.pdb
